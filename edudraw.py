@@ -1,3 +1,5 @@
+# Biblioteca EduDraw
+# https://github.com/MuriloLCN/Edu-Draw-Python
 
 import time
 import copy
